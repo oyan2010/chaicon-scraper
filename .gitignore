@@ -1,0 +1,31 @@
+# Byte-compiled / optimized
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Database files & SQLite logs
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Log files
+*.log
+gui_stdout.log
+gui_stderr.log
+scraper_debug.log
+
+# Downloaded assets & export results
+downloaded_files/
+*.csv
+
+# Environment & Virtual environments
+.env
+.venv
+env/
+venv/
+
+# IDE & OS
+.idea/
+.vscode/
+.DS_Store

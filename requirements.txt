@@ -1,0 +1,5 @@
+PyQt5>=5.15.9
+seleniumbase>=4.28.0
+fpdf2>=2.7.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
